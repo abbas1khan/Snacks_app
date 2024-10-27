@@ -1,3 +1,27 @@
+## Screenshots
+
+<div style="overflow-x: auto; white-space: nowrap;">
+  <img src="https://github.com/user-attachments/assets/eafe7a0f-0ccb-443e-9350-69b90de3042e" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/4cd319fe-ffb5-4a01-85ac-90d490e851b5" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/7cc5c677-fbb5-4842-8b85-44d6511eaae7" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/1ee7f3fd-80d2-4590-9cc9-88f350726692" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/acaf8643-3b40-4d64-a4bd-660257c3218c" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/bddc154d-1ba1-44aa-be06-2bfa29539b9b" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/060ea228-bd21-41cc-b0e2-00ab5f5c0b64" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/4f16f73d-cd56-438e-8190-e7d9507213e2" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/a216c0cb-8280-407b-8964-f96d9b19000a" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/7dc230c2-8abe-4985-a666-5075931aa399" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/a4c087e6-1a45-4a2c-b2e2-b1232dde744f" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/d12cb008-96dd-4ab5-8bfa-968d774dc9b1" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/5e4951a7-f1c7-46f1-b54f-b7ef8577f180" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/df7b58a6-f325-45ba-ab24-0aa376ae5d5d" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <img src="https://github.com/user-attachments/assets/0d4326ea-9648-4a81-b548-0d7f5d3b519c" alt="Screenshot" style="display: inline-block; width: 270px;">
+  <br>
+  <br>
+</div>
+
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
